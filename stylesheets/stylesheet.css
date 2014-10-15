@@ -231,6 +231,11 @@ a {
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
+.a-h1 {
+  color: #b5e853;
+  text-decoration: inherit;
+}
+
 /* Clearfix */
 
 .cf:before, .cf:after {
