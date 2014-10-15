@@ -1,14 +1,10 @@
 ---
 layout: default
-title: index
+title: Python
 ---
-<h2>Recent</h2>
+<h2>Python</h2>
 <ul>
-{% for post in site.posts %}
+{% for post in site.categories.Python %}
     <li>{{ post.date | date_to_string }} <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
-</ul>
-<h2>Categories</h2>
-<ul>
-    <li><a href="Python">Python</a></li>
 </ul>
