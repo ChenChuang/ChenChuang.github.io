@@ -78,9 +78,9 @@ In either case, you can add an optional language ID at the end of the first line
 </div>
 ```
 
-```python
+~~~python
 foo = [1,2,3]
-```
+~~~
 
 The language ID will be used to highlight the code inside if you tick the ***Enable highlighting in code blocks*** option. This is what happens if you enable it:
 
