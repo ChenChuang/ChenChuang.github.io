@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hello, Github page
-tags: Python ITS
+title: Hello, Markdown page
+tags: Markdown ITS
 ---
 
 
